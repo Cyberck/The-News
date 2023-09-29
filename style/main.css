@@ -1,0 +1,43 @@
+@import 'fonts.css';
+
+.main {
+  background: #EDEDED;
+  margin-bottom: 50px;
+  margin-top: 40px;
+}
+.main__item {
+  display: flex;
+  justify-content: space-between;
+}
+
+.main__img {
+  max-width: 540px;
+  width: 100%;
+}
+
+.main__item-box {
+  max-width: 540px;
+  width: 100%;
+}
+
+.main__title {
+  padding-bottom: 40px;
+  background: white;
+  font-family: 'rb';
+  font-size: 22px;
+  line-height: 26px;
+}
+
+
+.main__item-title {
+  margin-top: 20px;
+  margin-bottom: 30px;
+  text-align: left;
+  font-size: 22px;
+  line-height: 26px;
+}
+
+
+.main__item-text {
+  text-align: left;
+}
