@@ -31,4 +31,13 @@
   color: #EF4423;
 }
 
+@media (max-width: 900px) {
+	.footer__list {
+		display: none;
+	}
+	.footer__logo {
+		margin: 0 auto;
+	}
+}
+
 
