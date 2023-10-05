@@ -285,6 +285,10 @@ body {
 		z-index: 999;
 	}
 
+
+}
+
+@media (max-width: 360px) {
 	.header__box-img {
 		max-width: 350px;
 		width: 100%;
